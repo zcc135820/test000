@@ -1,13 +1,13 @@
 package getter
 
 import (
-	"github.com/Sansui233/proxypool/log"
+	"github.com/xiaofei-ya/proxypool/log"
 	"io/ioutil"
 	"regexp"
 	"sync"
 
-	"github.com/Sansui233/proxypool/pkg/proxy"
-	"github.com/Sansui233/proxypool/pkg/tool"
+	"github.com/xiaofei-ya/proxypool/pkg/proxy"
+	"github.com/xiaofei-ya/proxypool/pkg/tool"
 )
 
 func init() {
