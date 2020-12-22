@@ -1,10 +1,10 @@
 package provider
 
 import (
-	"github.com/Sansui233/proxypool/pkg/tool"
+	"github.com/xiaofei-ya/proxypool/pkg/tool"
 	"strings"
 
-	"github.com/Sansui233/proxypool/pkg/proxy"
+	"github.com/xiaofei-ya/proxypool/pkg/proxy"
 )
 
 // Clash provides functions that make proxies support clash client
