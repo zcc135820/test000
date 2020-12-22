@@ -1,14 +1,14 @@
 package cron
 
 import (
-	"github.com/Sansui233/proxypool/config"
-	"github.com/Sansui233/proxypool/internal/cache"
-	"github.com/Sansui233/proxypool/log"
-	"github.com/Sansui233/proxypool/pkg/healthcheck"
-	"github.com/Sansui233/proxypool/pkg/provider"
+	"github.com/xiaofei-ya/proxypool/config"
+	"github.com/xiaofei-ya/proxypool/internal/cache"
+	"github.com/xiaofei-ya/proxypool/log"
+	"github.com/xiaofei-ya/proxypool/pkg/healthcheck"
+	"github.com/xiaofei-ya/proxypool/pkg/provider"
 	"runtime"
 
-	"github.com/Sansui233/proxypool/internal/app"
+	"github.com/xiaofei-ya/proxypool/internal/app"
 	"github.com/jasonlvhit/gocron"
 )
 
